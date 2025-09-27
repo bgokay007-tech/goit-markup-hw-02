@@ -1,0 +1,234 @@
+body {
+  color: #2e2f42;
+}
+
+.ilk {
+  font-family: raleway, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+  vertical-align: middle;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.ikinci {
+  font-family: raleway, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+  vertical-align: middle;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+nav ul li {
+  list-style: none;
+  text-decoration: none;
+}
+
+nav ul li a {
+  font-family: roboto, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  text-decoration: none;
+}
+.email {
+  font-family: roboto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #434455;
+  text-decoration: none;
+}
+.tel {
+  font-family: roboto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #434455;
+  text-decoration: none;
+}
+main {
+  text-align: center;
+}
+.anabaslik {
+  background-color: #2e2f42;
+  width: 1440px;
+  height: 600px;
+}
+h1 {
+  font-family: roboto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 56px;
+  line-height: 60px;
+  letter-spacing: 0.02em;
+  align-items: center;
+  color: #ffffff;
+  background-color: #2e2f42;
+  text-align: center;
+}
+button {
+  font-family: roboto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  background-color: #4d5ae5;
+  vertical-align: middle;
+  cursor: pointer;
+}
+.bilgi1 ul {
+  list-style: none;
+}
+.bilgi2 ul {
+  list-style: none;
+}
+
+.bilgi1 ul li h3 {
+  font-family: roboto, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.bilgi1 ul li p {
+  font-family: roboto, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.bilgi2 h2 {
+  font-family: roboto, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 36px;
+  line-height: 40px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.bilgi2 {
+  border: 2px solid #f4f4fd;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  margin: 0;
+  background-color: #f4f4fd;
+  transition: 0.3s;
+}
+
+.bilgi2 h3 {
+  font-family: roboto, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.bilgi2 p {
+  font-family: roboto, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.bilgi3 h2 {
+  font-family: roboto, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 36px;
+  line-height: 40px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.bilgi3 ul li {
+  list-style: none;
+  text-decoration: none;
+}
+
+.bilgi3 h3 {
+  font-family: roboto, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.bilgi3 p {
+  font-family: roboto, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.WEB {
+  font-family: raleway, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+  vertical-align: middle;
+  text-transform: uppercase;
+  color: #4d5ae5;
+  text-decoration: none;
+}
+footer {
+  background-color: #2e2f42;
+  width: 1440px;
+  height: 312px;
+  text-decoration: none;
+}
+.STUDIO {
+  font-family: raleway, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+  vertical-align: middle;
+  text-transform: uppercase;
+  color: #f4f4fd;
+  text-decoration: none;
+}
+
+footer p {
+  font-family: roboto, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #e7e9fc;
+  text-decoration: none;
+}
