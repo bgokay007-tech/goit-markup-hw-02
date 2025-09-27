@@ -1,13 +1,12 @@
-body {
+body {font-family: 'Roboto', sans-serif;
   color: #2e2f42;
 }
 
 .ilk {
   font-family: raleway, sans-serif;
   font-weight: 700;
-  font-style: normal;
   font-size: 18px;
-  line-height: 21px;
+  line-height: 1.2;
   letter-spacing: 0.03em;
   vertical-align: middle;
   text-transform: uppercase;
@@ -17,13 +16,15 @@ body {
 .ikinci {
   font-family: raleway, sans-serif;
   font-weight: 700;
-  font-style: normal;
   font-size: 18px;
-  line-height: 21px;
+  line-height: 1.2;
   letter-spacing: 0.03em;
   vertical-align: middle;
   text-transform: uppercase;
   color: #2e2f42;
+}
+header :hover {color: #404BBF;
+
 }
 nav ul li {
   list-style: none;
@@ -33,29 +34,24 @@ nav ul li {
 nav ul li a {
   font-family: roboto, sans-serif;
   font-weight: 500;
-  font-style: normal;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-decoration: none;
 }
 .email {
   font-family: roboto;
-  font-weight: 400;
-  font-style: normal;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
   text-decoration: none;
 }
 .tel {
   font-family: roboto;
-  font-weight: 400;
-  font-style: normal;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
   text-decoration: none;
@@ -71,9 +67,8 @@ main {
 h1 {
   font-family: roboto;
   font-weight: 700;
-  font-style: normal;
   font-size: 56px;
-  line-height: 60px;
+  line-height: 1.1;
   letter-spacing: 0.02em;
   align-items: center;
   color: #ffffff;
@@ -83,14 +78,16 @@ h1 {
 button {
   font-family: roboto;
   font-weight: 500;
-  font-style: normal;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
   background-color: #4d5ae5;
   vertical-align: middle;
   cursor: pointer;
+}
+button:hover {
+  background-color: #404BBF;
 }
 .bilgi1 ul {
   list-style: none;
@@ -102,18 +99,15 @@ button {
 .bilgi1 ul li h3 {
   font-family: roboto, sans-serif;
   font-weight: 500;
-  font-style: normal;
   font-size: 20px;
-  line-height: 24px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .bilgi1 ul li p {
   font-family: roboto, sans-serif;
-  font-weight: 400;
-  font-style: normal;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
@@ -121,9 +115,8 @@ button {
 .bilgi2 h2 {
   font-family: roboto, sans-serif;
   font-weight: 700;
-  font-style: normal;
   font-size: 36px;
-  line-height: 40px;
+  line-height: 1.1;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
@@ -141,18 +134,15 @@ button {
 .bilgi2 h3 {
   font-family: roboto, sans-serif;
   font-weight: 500;
-  font-style: normal;
   font-size: 20px;
-  line-height: 24px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .bilgi2 p {
   font-family: roboto, sans-serif;
-  font-weight: 400;
-  font-style: normal;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
@@ -160,9 +150,8 @@ button {
 .bilgi3 h2 {
   font-family: roboto, sans-serif;
   font-weight: 700;
-  font-style: normal;
   font-size: 36px;
-  line-height: 40px;
+  line-height: 1.1;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
@@ -175,18 +164,15 @@ button {
 .bilgi3 h3 {
   font-family: roboto, sans-serif;
   font-weight: 500;
-  font-style: normal;
   font-size: 20px;
-  line-height: 24px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .bilgi3 p {
   font-family: roboto, sans-serif;
-  font-weight: 400;
-  font-style: normal;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
@@ -194,9 +180,8 @@ button {
 .WEB {
   font-family: raleway, sans-serif;
   font-weight: 700;
-  font-style: normal;
   font-size: 18px;
-  line-height: 21px;
+  line-height: 1.2;
   letter-spacing: 0.03em;
   vertical-align: middle;
   text-transform: uppercase;
@@ -211,10 +196,8 @@ footer {
 }
 .STUDIO {
   font-family: raleway, sans-serif;
-  font-weight: 700;
-  font-style: normal;
   font-size: 18px;
-  line-height: 21px;
+  line-height: 1.2;
   letter-spacing: 0.03em;
   vertical-align: middle;
   text-transform: uppercase;
@@ -224,10 +207,8 @@ footer {
 
 footer p {
   font-family: roboto, sans-serif;
-  font-weight: 400;
-  font-style: normal;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #e7e9fc;
   text-decoration: none;
